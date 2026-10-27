@@ -59,6 +59,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/bilbo111/rw-nod-x-updat/main
 
 ## 📋 Требования
 
+* Ubuntu 24.04.4 LTS
 * Docker
 * Запущенный контейнер с именем `remnanode`
 * Права `root` (sudo)
